@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "9AF6EFDD-AE46-4113-A244-FD19159C0021",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MobiusShowcase.xcodeproj",
+      "identifier" : "127265A02AEA277E008466CB",
+      "name" : "MobiusShowcase"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MobiusShowcase.xcodeproj",
+        "identifier" : "127265B62AEA277F008466CB",
+        "name" : "MobiusShowcaseTests"
+      }
+    }
+  ],
+  "version" : 1
+}
